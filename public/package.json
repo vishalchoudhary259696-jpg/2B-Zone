@@ -1,4 +1,6 @@
-
+"scripts": {
+  "start": "node server.js"
+}
 {
   "name": "2b-zone-movie-booking",
   "version": "1.0.0",
